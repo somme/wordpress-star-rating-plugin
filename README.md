@@ -1,0 +1,1 @@
+# wordpress-star-rating-plugin
